@@ -1,4 +1,8 @@
-Pyramid Project Template
+Ansible Role template
 ==============================
 
-Pyramid project template using Cookiecutter
+Use it with Cookiecutter:
+
+```bash
+$ cookiecutter https://github.com/avanov/ansible-role-template
+```
