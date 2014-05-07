@@ -1,0 +1,10 @@
+{
+    "repo_name": "myproject",
+    "name": "myproject",
+    "description": "Short description",
+    "url": "https://github.com/avanov",
+    "version": "0.0.1",
+    "author": "Maxim Avanov",
+    "author_url": "https://maximavanov.com",
+    "author_email": "maxim.avanov@gmail.com"
+}
